@@ -1,0 +1,15 @@
+D:\github\Car\bin\Debug\net6.0\Car.exe
+D:\github\Car\bin\Debug\net6.0\Car.deps.json
+D:\github\Car\bin\Debug\net6.0\Car.runtimeconfig.json
+D:\github\Car\bin\Debug\net6.0\Car.dll
+D:\github\Car\bin\Debug\net6.0\Car.pdb
+D:\github\Car\obj\Debug\net6.0\Car.csproj.AssemblyReference.cache
+D:\github\Car\obj\Debug\net6.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Car\obj\Debug\net6.0\Car.AssemblyInfoInputs.cache
+D:\github\Car\obj\Debug\net6.0\Car.AssemblyInfo.cs
+D:\github\Car\obj\Debug\net6.0\Car.csproj.CoreCompileInputs.cache
+D:\github\Car\obj\Debug\net6.0\Car.dll
+D:\github\Car\obj\Debug\net6.0\refint\Car.dll
+D:\github\Car\obj\Debug\net6.0\Car.pdb
+D:\github\Car\obj\Debug\net6.0\Car.genruntimeconfig.cache
+D:\github\Car\obj\Debug\net6.0\ref\Car.dll
